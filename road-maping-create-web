@@ -1,6 +1,8 @@
 create web with
 - html
 - css
-- javascript
 - php (framework)
   ^ laravel
+- javascript (framework)
+  ^ vue
+  ^ react
