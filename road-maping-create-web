@@ -1,8 +1,8 @@
 create web with
 - html
 - css
-- php
-  *laravel
 - javascript (framework)
   *vue
   *react
+- php
+  *laravel
