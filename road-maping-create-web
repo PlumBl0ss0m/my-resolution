@@ -4,6 +4,8 @@ create web with
 - javascript (framework)
   *vue
   *react
+  *angular
+  *backbone
 - php
   *laravel
   *symfony
