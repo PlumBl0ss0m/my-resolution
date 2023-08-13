@@ -1,12 +1,13 @@
-create web with
-- html
-- css
-- javascript (framework)
-  *vue
-  *react
-  *angular
-  *backbone
-- php
-  *laravel
-  *symfony
-  *zend
+# create web with  
+
+1. html
+2. css
+3. javascript (framework)
+  * vue
+  * react
+  * angular
+  * backbone
+4. php
+  * laravel
+  * symfony
+  * zend
